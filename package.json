@@ -1,0 +1,17 @@
+{
+  "name": "minecraftbot",
+  "version": "1.0.0",
+  "description": "minecraft ver 1.19+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vanevgt",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-protocol": "^1.41.2",
+    "mineflayer": "^4.8.1",
+    "mineflayer-blockfinder": "^0.0.7",
+    "mineflayer-cmd": "^1.1.3"
+  }
+}
